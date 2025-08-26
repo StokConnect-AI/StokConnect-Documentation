@@ -1,0 +1,7 @@
+Solution Technique
+
+-To enhance the accuracy of our health-based chatbot, smart techniques like:
+	-data augmentation (we will expand our training data by creating extra examples, like rephrased symptoms so that our model can better understand a wide variety of user expressions. This will helps it respond accurately and be reliable), 
+	-transfer learning (we will teach the chatbot to handle health-related questions more effectively saving us time and boosting performance for tasks like symptom checking and urgency detection), and 
+	-hyperparameter tuning will be employed(how fast it learns or how much data it processes at once to get the best results. we will find an ideal setup to improve accuracy).
+These strategies will ensure that the model can better understand a wide range of symptoms to make accurate recommendations and adapt over time. We will also combine different models and use location info to give users helpful real-time medical tips and nearby pharmacy suggestions.
