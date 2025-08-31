@@ -1,0 +1,6 @@
+We'll use deep learning techniques like LSTM(Long Short-Term Memory) and Transformer models to analyze patient symptoms and suggest possible diseases.
+Among various classification networks, this approach is especially good at handling multiple symptoms to give more accurate illness predictions. 
+We'll also use Graph Neural Networks (GNNs) to connect symptoms, medications, and details like nearby pharmacies, creating a smarter recommendation system based on context. 
+Time-series models will help us predict medicine demand and avoid running out of stock.
+To make our models fit better with local conditions,we'll apply transfer learning, which adapts existing models to new environments. 
+we'll set up a continuous feedback loop so the chatbot can keep learning and improving over time.
