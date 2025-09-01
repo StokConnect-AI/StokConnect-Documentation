@@ -18,4 +18,6 @@ Monetization and Longevity
 . Facilitate advertisements from healthcare providers.
 
 Insightful Data Analysis
-. Deliver monthly or quarterly reports on prevalent health issues, pharmacy trends, and medicine demand to assist in healthcare strategy.
+
+⦁ Deliver monthly reports on health issues and medicine demand to assist our users with their health.
+
