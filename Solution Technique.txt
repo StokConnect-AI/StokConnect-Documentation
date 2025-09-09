@@ -8,10 +8,7 @@ Solution Technique
 
 	-hyperparameter tuning will be employed(how fast it learns or how much data it processes at once to get the best results. we will find an ideal setup to improve accuracy)
 
-	-Graph Neural Networks (GNNs), (GNNs will be used to model complex relationships between symptoms, medications, and pharmacies. This allows the system to learn how symptoms relate to possible treatments and where those treatments are available, enabling contextually relevant medication and pharmacy suggestions)
-
 	-Natural Language Processing (NLP), (NLP techniques are employed to understand and interpret user-inputted symptoms, even when expressed in varied or informal ways. This ensures the chatbot can handle a wide range of user queries accurately and naturally)
 
-	-Continuous Feedback Loop for System Improvement, (User feedback and interaction metrics are continuously monitored to update the models and improve performance over time. This feedback loop helps the system adapt to changing health trends and user expectations)
-	
 These strategies will ensure that the model can better understand a wide range of symptoms to make accurate recommendations and adapt over time. We will also combine different models and use location info to give users helpful real-time medical tips and nearby pharmacy suggestions.
+
