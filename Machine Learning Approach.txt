@@ -1,0 +1,13 @@
+Machine learning approach for demand forecasting
+
+1.Define scope: product, category, or regional forecasting levels.
+2.Use classical models for baseline: ARIMA for seasonal trends.
+3.Apply advanced models for complex patterns:
+  -Gradient Boosted Trees for structured sales data.
+  -Random Forest when feature interactions matter.
+  -LSTM or GRU for sequential time series with long-term dependencies.
+4.Combine models in an ensemble to raise accuracy.
+5.Apply feature selection to reduce noise.
+6.Verify with cross-validation on rolling windows.
+7.Observe movement in data and initiate models when accuracy drops.
+8.Estimates stock needs by analyzing purchase patterns and seasonal demand.
